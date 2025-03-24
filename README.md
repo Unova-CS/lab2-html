@@ -7,4 +7,4 @@ This project is part of CSC 4035 Lab assignment 2, with the goal of demonstratin
 - A Git workflow that involves committing changes and pushing to GitHub.
 - A collaboration feature with a pull request submission to lab partner.
 
-Developed by: Shapenga Chibotu.
+Author: Shapenga Chibotu.
